@@ -1,5 +1,0 @@
-{{#user}}
-Name: Gautam rawat
-Skills: HTML, CSS, PYTHON
-Email: iamgautamrawat1024@gmail.com
-{{/user}}
